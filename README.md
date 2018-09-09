@@ -1,3 +1,3 @@
-# Random_Process_Project!
+# Random_Process_Project
 
-We shall use matlab. 
+Modelling a flu outbreak within a school in Mt Gambier. 
